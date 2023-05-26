@@ -1,4 +1,4 @@
-./models
-./logs
-./test_trainer
-./camembert-base-finetuned-amazon-reviews-model
+models/
+logs/
+test_trainer/
+camembert-base-finetuned-amazon-reviews-model/
